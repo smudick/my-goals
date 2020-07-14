@@ -1,6 +1,6 @@
 My Goals 
 
-week 1: Learned
+Week 1 Learned
         
         Git
 
@@ -10,7 +10,7 @@ week 1: Learned
         
         VS Code
         
-Week 2: Learned
+Week 2 Learned
 
         HTML
 
