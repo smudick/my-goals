@@ -17,3 +17,13 @@ Week 2 Learned
         CSS 
         
         Flexbox
+Week 3 Learned 
+
+        Javascript Data Stuctures, Arrays and Loops 
+        
+Week 4 Learned 
+        
+        DOM manipulation
+        Bootstrap
+        
+        
